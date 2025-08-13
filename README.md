@@ -1,7 +1,6 @@
 # AED
-# Estudos C#
 
-Este repositório foi criado para armazenar meus estudos em **C#** na disciplina AED (Análise de Estruturas e dados).
+Este repositório foi criado para armazenar meus estudos em **C#** na disciplina AED (Análise de Estruturas e dados). O mesmo contará com atividades, trabalhos, exercícios feitos em sala e em casa.
 
 Sou estudante de **Sistemas de Informação** e **estagiário na área de desenvolvimento**. Estou organizando meus códigos aqui como forma de acompanhar meu progresso e também compartilhar o que venho aprendendo.
 
