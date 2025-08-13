@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\bin\Debug\net6.0\AED - Aula 03.2.exe
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\bin\Debug\net6.0\AED - Aula 03.2.deps.json
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\bin\Debug\net6.0\AED - Aula 03.2.runtimeconfig.json
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\bin\Debug\net6.0\AED - Aula 03.2.dll
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\bin\Debug\net6.0\AED - Aula 03.2.pdb
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.AssemblyInfo.cs
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.dll
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\refint\AED - Aula 03.2.dll
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.pdb
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\AED - Aula 03.2.genruntimeconfig.cache
+C:\Users\Acer\Desktop\AED\AED - Aula 03.2\obj\Debug\net6.0\ref\AED - Aula 03.2.dll

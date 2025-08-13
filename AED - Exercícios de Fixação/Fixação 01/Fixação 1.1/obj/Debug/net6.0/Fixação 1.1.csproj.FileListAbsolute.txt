@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\bin\Debug\net6.0\Fixação 1.1.exe
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\bin\Debug\net6.0\Fixação 1.1.deps.json
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\bin\Debug\net6.0\Fixação 1.1.runtimeconfig.json
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\bin\Debug\net6.0\Fixação 1.1.dll
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\bin\Debug\net6.0\Fixação 1.1.pdb
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.dll
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\refint\Fixação 1.1.dll
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.pdb
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\Fixação 1.1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\AED\AED - Exercícios de Fixação\Fixação 01\Fixação 1.1\obj\Debug\net6.0\ref\Fixação 1.1.dll
