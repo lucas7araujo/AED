@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\bin\Debug\net6.0\Revisão 07.exe
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\bin\Debug\net6.0\Revisão 07.deps.json
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\bin\Debug\net6.0\Revisão 07.runtimeconfig.json
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\bin\Debug\net6.0\Revisão 07.dll
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\bin\Debug\net6.0\Revisão 07.pdb
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.AssemblyInfo.cs
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.dll
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\refint\Revisão 07.dll
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.pdb
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\Revisão 07.genruntimeconfig.cache
+C:\Users\Acer\Desktop\AED\Lista de Exercícios - Revisão ATP\Revisão 07\obj\Debug\net6.0\ref\Revisão 07.dll
