@@ -26,7 +26,7 @@ class Produto
     {
         foreach (var produto in Produtos)
         {
-            System.Console.WriteLine(produto);
+            Console.WriteLine(produto);
         }
 
         Console.WriteLine($"\nValor total do inventário: {RetornaValorTotalEstoque} ");
