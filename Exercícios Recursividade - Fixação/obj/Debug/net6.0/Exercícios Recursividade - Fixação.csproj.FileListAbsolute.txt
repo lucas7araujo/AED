@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\bin\Debug\net6.0\Exercícios Recursividade - Fixação.exe
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\bin\Debug\net6.0\Exercícios Recursividade - Fixação.deps.json
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\bin\Debug\net6.0\Exercícios Recursividade - Fixação.runtimeconfig.json
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\bin\Debug\net6.0\Exercícios Recursividade - Fixação.dll
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\bin\Debug\net6.0\Exercícios Recursividade - Fixação.pdb
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.AssemblyInfo.cs
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.dll
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\refint\Exercícios Recursividade - Fixação.dll
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.pdb
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\Exercícios Recursividade - Fixação.genruntimeconfig.cache
+C:\Users\Acer\Documents\AED\Exercícios Recursividade - Fixação\obj\Debug\net6.0\ref\Exercícios Recursividade - Fixação.dll

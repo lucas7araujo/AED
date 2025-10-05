@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\bin\Debug\net6.0\AED - TAD e Classes 4.exe
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\bin\Debug\net6.0\AED - TAD e Classes 4.deps.json
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\bin\Debug\net6.0\AED - TAD e Classes 4.runtimeconfig.json
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\bin\Debug\net6.0\AED - TAD e Classes 4.dll
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\bin\Debug\net6.0\AED - TAD e Classes 4.pdb
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.AssemblyInfo.cs
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.dll
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\refint\AED - TAD e Classes 4.dll
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.pdb
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\AED - TAD e Classes 4.genruntimeconfig.cache
+C:\Users\Acer\Documents\AED\AED - TAD e Classes 4\obj\Debug\net6.0\ref\AED - TAD e Classes 4.dll

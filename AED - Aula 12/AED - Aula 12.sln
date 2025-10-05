@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AED - Aula 12", "AED - Aula 12.csproj", "{07CBC359-1CFB-BE58-3560-D6CF5A9B7772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CBC359-1CFB-BE58-3560-D6CF5A9B7772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CBC359-1CFB-BE58-3560-D6CF5A9B7772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CBC359-1CFB-BE58-3560-D6CF5A9B7772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CBC359-1CFB-BE58-3560-D6CF5A9B7772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F48EBA-D85C-4954-87F1-A4011C836D93}
+	EndGlobalSection
+EndGlobal

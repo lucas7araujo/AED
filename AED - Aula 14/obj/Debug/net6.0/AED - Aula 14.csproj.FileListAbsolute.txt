@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\AED\AED - Aula 14\bin\Debug\net6.0\AED - Aula 14.exe
+C:\Users\Acer\Documents\AED\AED - Aula 14\bin\Debug\net6.0\AED - Aula 14.deps.json
+C:\Users\Acer\Documents\AED\AED - Aula 14\bin\Debug\net6.0\AED - Aula 14.runtimeconfig.json
+C:\Users\Acer\Documents\AED\AED - Aula 14\bin\Debug\net6.0\AED - Aula 14.dll
+C:\Users\Acer\Documents\AED\AED - Aula 14\bin\Debug\net6.0\AED - Aula 14.pdb
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.AssemblyInfo.cs
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.dll
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\refint\AED - Aula 14.dll
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.pdb
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\AED - Aula 14.genruntimeconfig.cache
+C:\Users\Acer\Documents\AED\AED - Aula 14\obj\Debug\net6.0\ref\AED - Aula 14.dll

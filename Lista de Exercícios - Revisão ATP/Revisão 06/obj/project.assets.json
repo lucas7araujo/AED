@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\AED\\Lista de Exercícios - Revisão ATP\\Revisão 06\\Revisão 06.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\AED\\Lista de Exercícios - Revisão ATP\\Revisão 06\\Revisão 06.csproj",
       "projectName": "Revisão 06",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\AED\\Lista de Exercícios - Revisão ATP\\Revisão 06\\Revisão 06.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\AED\\Lista de Exercícios - Revisão ATP\\Revisão 06\\Revisão 06.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\AED\\Lista de Exercícios - Revisão ATP\\Revisão 06\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\AED\\Lista de Exercícios - Revisão ATP\\Revisão 06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

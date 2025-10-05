@@ -11,7 +11,7 @@ class Program
         {
             soma *= i;
         }
-
+        
         return soma;
     }
     static double RetornaSomaS(int n)

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AED - Aula 12/1.0.0": {
+        "runtime": {
+          "AED - Aula 12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AED - Aula 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

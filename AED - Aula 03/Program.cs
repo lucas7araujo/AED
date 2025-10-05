@@ -36,6 +36,13 @@ class Program
         return ano;
 
     }
+
+    // git commit -m "feat: Implementa uma nova funcionalidade ao 
+    // código."
+    // git commit -m "fix: Corrige alguma estrutura
+    // já existente."
+    // git commit -m "chore: indica mudanças no
+    // projeto que não afetem o sistema."
     static void Main()
     {
         // Entradas -> Ano | Altura | Taxa de Crescimento

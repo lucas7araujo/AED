@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ALKBoKg/EKT1tVVFm0oUHE8tUaBaxkbDafiGmdPsQWIQaQIONBr52y5uMh+uY4B7p5n3lqK1lIh0xE5LtOJgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\AED\\AED - Aula 11\\AED - Aula 11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
