@@ -1,0 +1,12 @@
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\bin\Debug\net6.0\LucasLibrary.deps.json
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\bin\Debug\net6.0\LucasLibrary.dll
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\bin\Debug\net6.0\LucasLibrary.pdb
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.AssemblyInfo.cs
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.dll
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\refint\LucasLibrary.dll
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\LucasLibrary.pdb
+C:\Users\Acer\Documents\AED\Biblioteca\LucasLibrary\obj\Debug\net6.0\ref\LucasLibrary.dll

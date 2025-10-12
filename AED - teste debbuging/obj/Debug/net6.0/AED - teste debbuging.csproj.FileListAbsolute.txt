@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\AED\AED - teste debbuging\bin\Debug\net6.0\AED - teste debbuging.exe
+C:\Users\Acer\Documents\AED\AED - teste debbuging\bin\Debug\net6.0\AED - teste debbuging.deps.json
+C:\Users\Acer\Documents\AED\AED - teste debbuging\bin\Debug\net6.0\AED - teste debbuging.runtimeconfig.json
+C:\Users\Acer\Documents\AED\AED - teste debbuging\bin\Debug\net6.0\AED - teste debbuging.dll
+C:\Users\Acer\Documents\AED\AED - teste debbuging\bin\Debug\net6.0\AED - teste debbuging.pdb
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.AssemblyInfo.cs
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.dll
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\refint\AED - teste debbuging.dll
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.pdb
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\AED - teste debbuging.genruntimeconfig.cache
+C:\Users\Acer\Documents\AED\AED - teste debbuging\obj\Debug\net6.0\ref\AED - teste debbuging.dll

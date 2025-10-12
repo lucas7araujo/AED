@@ -54,14 +54,8 @@ class Program
     {
         // System.Console.WriteLine(ReturnFat(5));
         // System.Console.WriteLine(RetunrFib(6));
-        System.Console.WriteLine("123\n");
-        System.Console.WriteLine(123 % 100);
-        System.Console.WriteLine(123 % 10);
-        System.Console.WriteLine(123 % 1);
-        System.Console.WriteLine("");
-        System.Console.WriteLine(123 / 100);
-        System.Console.WriteLine(123 / 10);
-        System.Console.WriteLine(123 / 1);
+        // Console.WriteLine(RetornaPotencia(10, 2));
+        Console.WriteLine(InverteString("c sharp"));
 
     }
     static int ReturnFat(int number)
@@ -78,6 +72,26 @@ class Program
 
     static int ReturnSoma(int n)
     {
-         
+        return 5; // fzr depois
     }
+
+    static int RetornaPotencia(int a, int b)
+    {
+        if (a == 1 || b == 0) return 1;
+        else
+        {
+            return a * RetornaPotencia(a, b - 1);
+        }
+    }
+
+    static string InverteString(string texto, string retorno = "", int count = 1)
+    {
+        if (texto.Length == retorno.Length) return retorno;
+        else
+        {
+            retorno += texto[texto.Length - count];
+            return InverteString(texto, retorno, count + 1);
+        }
+    }
+
 }
